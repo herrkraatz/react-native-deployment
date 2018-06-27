@@ -4,7 +4,7 @@ This tutorial shall help deploying your React Native App binaries to the App Sto
 
 We are NOT covering 
 - how to set up an Apple Developer Account (https://developer.apple.com/) or Google Developer Account (https://play.google.com/apps/publish/)
-- how to create an App in the App Store Connect, former iTunes Connect (https://appstoreconnect.apple.com/), or the Google Play Console (https://play.google.com/apps/publish/signup/)
+- how to create an App in App Store Connect, former iTunes Connect (https://appstoreconnect.apple.com/), or in Google Play Console (https://play.google.com/apps/publish/signup/)
 - how to add Meta Data and Promo Pictures / Videos to your created App
 
 
@@ -36,16 +36,6 @@ Preferences:
 
 - Your React Native App was developed using one of the three options in https://github.com/herrkraatz/react-native-setup
 - Your software / tools / frameworks with that you developed the React Native App are still installed.
-
-*Notes:*
-
-- No Mac needed, but tutorial was created using
-
-    - Mac OS X version High Sierra, 10.13.4 (`sw_vers`)
-    - Xcode Version 9.3
-    - Node.js version v9.11.1 (`node -v`)
-    - Watchman version 4.9.0 (`watchman -v`)
-    - React Native CLI version 2.0.1 (`react-native -v`)
 
 Ok, now let's dive into it.
 
@@ -134,7 +124,7 @@ Here's a quick summary of it:
     - Create the App within App Store Connect and Google Play Console
     - iOS: Make sure to use the same bundle ID as in bundleIdentifier of app.json file (above).
     
-6. Submit it to the Store
+6. Submit it to the Stores
 
     First please see https://docs.expo.io/versions/latest/guides/app-stores.html
     
