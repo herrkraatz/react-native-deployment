@@ -149,16 +149,16 @@ Here's a quick summary of it:
         - Go to Xcode >> Project Folder >> LaunchScreen.xib and manually create your own Splash Screen
     
     - Now create an App in the App Store Connect, in order to upload the IPA into it. Make sure to use the same bundle ID as in your Xcode project.
-
-    - Then check out https://facebook.github.io/react-native/docs/running-on-device.html#building-your-app-for-production
     
         Of course you initially built your App (and Xcode Project) first by running:
-        
+                
         ```
         > react-native run-ios
         ```
+
+    - Then check out instructions here: https://facebook.github.io/react-native/docs/running-on-device.html#building-your-app-for-production
     
-    - Once all is configured there, you can deploy your App from Xcode (from your machine):
+    - Once all is configured, you can deploy your App from Xcode (from your machine):
     
         - First create an Archive by running "Product" => "Archive" in Xcode.
         - From the popped up Archive Explorer you can then upload the App to App Store Connect (former iTunes Connect).
