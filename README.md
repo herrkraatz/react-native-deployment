@@ -152,6 +152,12 @@ Here's a quick summary of it:
 
     - Then check out https://facebook.github.io/react-native/docs/running-on-device.html#building-your-app-for-production
     
+        Of course you initially built your App (and Xcode Project) first by running:
+        
+        ```
+        > react-native run-ios
+        ```
+    
     - Once all is configured there, you can deploy your App from Xcode (from your machine):
     
         - First create an Archive by running "Product" => "Archive" in Xcode.
@@ -168,11 +174,21 @@ Here's a quick summary of it:
         
     - Now create an App in the Google Play Console, in order to upload the APK into it.
 
-    - Then build and sign the App. Signing is done to ensure your uploaded APK is clearly indentified: 
+    - Then build and sign the App.
+    
+        Of course you initially built your App first by running:
+                
+        ```
+        > react-native run-android
+        ```
+   
+        Signing is done to ensure your uploaded APK is clearly indentified: 
     
         See instructions:
         - https://facebook.github.io/react-native/docs/signed-apk-android
         - https://facebook.github.io/react-native/docs/running-on-device.html#building-your-app-for-production-1
+        
+        Your APK will be placed here: `android/app/build/outputs/apk/app-release.apk`
 
     - Manually upload the APK into the created App in Google Play Console
 
