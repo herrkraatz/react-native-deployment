@@ -198,13 +198,14 @@ Here's a quick summary of it:
 ### Have a look !
 
 
-Apple:
+Apple App Store:
 - Developer Account: https://developer.apple.com/
 - App Store Connect: https://appstoreconnect.apple.com/
 - Upload an App: https://help.apple.com/xcode/mac/current/#/dev442d7f2ca
 
-Google:
+Google Play Store:
 - Developer Account/Play Console: https://play.google.com/apps/publish/
+- Upload an App: https://support.google.com/googleplay/android-developer/answer/113469?hl=en
 
 Deployment:
 - Maximilian Schwarzmüller, Udemy Course: "React Native - The Practical Guide": https://www.udemy.com/react-native-the-practical-guide/
