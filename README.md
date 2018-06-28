@@ -47,7 +47,7 @@ Ok, now let's dive into it.
 
     See great documentation on https://docs.expo.io/versions/latest/guides/building-standalone-apps.html
     
-    And please jump to https://github.com/herrkraatz/react-native-deployment#chapter1b here in this tutorial   
+    And please jump to [Deployment of Apps built with `Expo`](#chapter1b) here in this tutorial   
 
 2. Advanced: If you need to integrate your `Create React Native App` (CRNA) into an existing native iOS / Android application OR want to create custom native modules beyond the standard React Native Components / APIs,
 
@@ -55,7 +55,7 @@ Ok, now let's dive into it.
     - you need to use `react-native-cli` along with Xcode and Android tools: 
         - See https://github.com/herrkraatz/react-native-setup#chapter1c
         - See Tab "Building Projects with Native Code" on https://facebook.github.io/react-native/docs/getting-started.html
-    - when done, jump to https://github.com/herrkraatz/react-native-deployment#chapter1c here in this tutorial
+    - when done, jump to [Deployment of Apps built with `React Native CLI`](#chapter1c) here in this tutorial
     
     One disadvantage of ejecting is that after you've ejected from CRNA, you don't get to use CRNA's tools and it won't take care of upgrades for you in the future.
 
