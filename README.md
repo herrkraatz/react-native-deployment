@@ -6,6 +6,9 @@ We are NOT covering
 - how to set up an Apple Developer Account (https://developer.apple.com/) or Google Developer Account (https://play.google.com/apps/publish/)
 - how to create an App in App Store Connect, former iTunes Connect (https://appstoreconnect.apple.com/), or in Google Play Console (https://play.google.com/apps/publish/signup/)
 - how to add Meta Data and Promo Pictures / Videos to your created App
+- how to handle testing groups for 
+    - Apple: TestFlight for a closed testing group
+    - Google: Alpha Release for a closed testing group, Beta Release for open testing
 
 
 ## Table of Contents
