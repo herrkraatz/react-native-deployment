@@ -1,3 +1,6 @@
+# Sorry !! Gosh ... 4 years went by.
+I hope to find time soon to update this tutorial.
+
 # React Native Deployment
 
 This tutorial shall help deploying your React Native App binaries to the App Store (iOS) and Play Store (Android).
